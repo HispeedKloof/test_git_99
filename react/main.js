@@ -6,4 +6,6 @@ function Main() {
   )
 }
 
+"Hello World"
+
 export default Main
